@@ -13,10 +13,6 @@ div.container {
     height: 480px;
 }
 
-.navbar {
-    /* width: 100%; */
-}
-
 .navbar-start {
     margin: 0 auto;
 }
@@ -25,24 +21,8 @@ div.container {
     width: 60%;
 }
 
-.container {
-   
-}
-
-.container is-fluid {
-
-}
-
-.navbar-start {
-    /* background-color: blue; */
-}
-
 nav.navbar {
     background-color: #6DA1B8;
-}
-
-#mainContainer {
-    background-color:red;
 }
 
 body {
